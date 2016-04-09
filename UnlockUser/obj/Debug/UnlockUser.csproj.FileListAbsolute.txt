@@ -1,0 +1,8 @@
+e:\users\gilang963517\documents\visual studio 2012\Projects\UnlockUser\UnlockUser\bin\Debug\UnlockUser.exe
+e:\users\gilang963517\documents\visual studio 2012\Projects\UnlockUser\UnlockUser\bin\Debug\UnlockUser.pdb
+e:\users\gilang963517\documents\visual studio 2012\Projects\UnlockUser\UnlockUser\obj\Debug\UnlockUser.csprojResolveAssemblyReference.cache
+e:\users\gilang963517\documents\visual studio 2012\Projects\UnlockUser\UnlockUser\obj\Debug\UnlockUser.Form1.resources
+e:\users\gilang963517\documents\visual studio 2012\Projects\UnlockUser\UnlockUser\obj\Debug\UnlockUser.Properties.Resources.resources
+e:\users\gilang963517\documents\visual studio 2012\Projects\UnlockUser\UnlockUser\obj\Debug\UnlockUser.csproj.GenerateResource.Cache
+e:\users\gilang963517\documents\visual studio 2012\Projects\UnlockUser\UnlockUser\obj\Debug\UnlockUser.exe
+e:\users\gilang963517\documents\visual studio 2012\Projects\UnlockUser\UnlockUser\obj\Debug\UnlockUser.pdb
